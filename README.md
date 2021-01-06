@@ -1,6 +1,6 @@
 # Instructions from team 9
 
-The goal of our model is to simulate the spread of COVID-19 in Sweden. The code is located in the SEIR_model.ipynb file and run with the "run all". The first block contains the differential equations for the model and the second block contains values for all the parameters included in our model. We have tried to adapt these parameters to the swedish population and initial spread of the virus. 
+The goal of our model is to simulate the spread of COVID-19 in Sweden. The code is located in the finishedmodel.ipynb file and run with the "run all". The first block contains the differential equations for the model and the second block contains values for all the parameters included in our model. We have tried to adapt these parameters to the swedish population and initial spread of the virus. 
 
 #
 
